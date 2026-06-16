@@ -2,7 +2,7 @@
 
 📚 **My learning repository for Machine Learning and Natural Language Processing coursework**
 
-This is an **ongoing collection** of Google Colab notebooks and projects that I'm working through as I progress through ML and NLP courses. Each notebook represents hands-on practice and experimentation as I learn new concepts.
+This is an **ongoing collection** of Google Colab notebooks and projects that I'm working through as I progress through ML and NLP courses. Each notebook represents hands-on practice and experimentation.
 
 ---
 
@@ -10,13 +10,6 @@ This is an **ongoing collection** of Google Colab notebooks and projects that I'
 
 ```
 ML-NLP-Coursework/
-├── machine-learning/
-│   ├── Project08_Regularization_Ridge_Lasso_ENet.ipynb
-│   ├── Project09_GridSearchCV.ipynb
-│   ├── classification/
-│   │   └── Project_01_Getting_Class_Probabilities.ipynb
-│   ├── weekly-notebooks/
-│   └── README.md
 ├── ml/
 │   ├── 03-tuning-and-validation/
 │   │   ├── Project08_Regularization_Ridge_Lasso_ENet.ipynb
@@ -33,7 +26,7 @@ ML-NLP-Coursework/
 ## 🎯 What's Inside
 
 ### 📊 Regression & Regularization
-**`Project08_Regularization_Ridge_Lasso_ENet.ipynb`**
+**`ml/03-tuning-and-validation/Project08_Regularization_Ridge_Lasso_ENet.ipynb`**
 - Learning regularization techniques to prevent overfitting
 - Implementing Ridge Regression (L2 penalty)
 - Implementing Lasso Regression (L1 penalty)
@@ -41,14 +34,14 @@ ML-NLP-Coursework/
 - Comparing model performance with different regularization strengths
 
 ### 🔍 Hyperparameter Tuning
-**`Project09_GridSearchCV.ipynb`**
+**`ml/03-tuning-and-validation/Project09_GridSearchCV.ipynb`**
 - Using GridSearchCV for systematic hyperparameter search
 - Cross-validation techniques
 - Finding optimal parameters for Ridge Regression
 - Evaluating model performance on train/test data
 
 ### 🏥 Classification & Probability
-**`classification/Project_01_Getting_Class_Probabilities.ipynb`**
+**`ml/04-classification-models/Project_01_Getting_Class_Probabilities.ipynb`**
 - Introduction to Logistic Regression
 - Binary classification with tumor size dataset
 - Understanding class probabilities
@@ -122,15 +115,15 @@ jupyter notebook
 
 ## 📖 Learning Path (My Journey So Far)
 
-1. **Start Here**: `classification/Project_01_Getting_Class_Probabilities.ipynb`
+1. **Start Here**: `ml/04-classification-models/Project_01_Getting_Class_Probabilities.ipynb`
    - Understand basics of classification
    - Learn about probability predictions
 
-2. **Then Explore**: `Project08_Regularization_Ridge_Lasso_ENet.ipynb`
+2. **Then Explore**: `ml/03-tuning-and-validation/Project08_Regularization_Ridge_Lasso_ENet.ipynb`
    - Deep dive into regression
    - Learn different regularization approaches
 
-3. **Master**: `Project09_GridSearchCV.ipynb`
+3. **Master**: `ml/03-tuning-and-validation/Project09_GridSearchCV.ipynb`
    - Optimize models systematically
    - Practice hyperparameter tuning
 
