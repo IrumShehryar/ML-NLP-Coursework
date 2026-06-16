@@ -1,36 +1,36 @@
 # Natural Language Processing Coursework
 
-Practical projects covering NLP fundamentals and advanced techniques for text processing and analysis.
+Practical NLP projects exploring text processing, analysis, and advanced language models.
 
-## 📋 Projects
+## 📋 Topics
 
-*NLP coursework materials in development. Projects will cover:*
+📌 **Text Processing**
+- Tokenization & preprocessing
+- Feature extraction & vectorization
 
-- Text preprocessing and tokenization
+📌 **Analysis & Classification**
 - Sentiment analysis
-- Named Entity Recognition (NER)
-- Word embeddings and representations
-- Language models and sequence modeling
 - Text classification
-- Advanced transformer-based models
+- Named Entity Recognition
 
-## 🛠️ Key Libraries
+📌 **Advanced Techniques**
+- Word embeddings & word2vec
+- Language models & transformers
+- Sequence modeling
+
+## 🛠️ Libraries
 
 ```python
-nltk              # NLP toolkit
-spacy             # Industrial NLP
-scikit-learn      # Text vectorization & classification
-pandas/numpy      # Data processing
+nltk          # NLP toolkit
+spacy         # Industrial-strength NLP
+scikit-learn  # Text vectorization & classification
+pandas/numpy  # Data handling
 ```
 
-## 💡 Topics (In Progress)
+## 🔄 Development Status
 
-✅ Text preprocessing  
-🔜 Sentiment analysis  
-🔜 Named entity recognition  
-🔜 Word embeddings  
-🔜 Sequence models  
+Projects in progress. This section will expand with notebooks and implementations as coursework advances.
 
 ---
 
-**Status**: 🔄 In Development | Check back for updates
+**Status**: 🔜 In Development | Check back for updates
