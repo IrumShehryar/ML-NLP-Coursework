@@ -6,8 +6,27 @@ Hands-on learning repository with Jupyter notebooks exploring data preprocessing
 
 ## 📂 Repository Structure
 
-- **`ml/`** — Machine Learning coursework notebooks
-- **`nlp/`** — Natural Language Processing coursework notebooks
+- **`ml/`** — Machine Learning coursework notebooks (folders 01 to 09)
+- **`nlp/`** — Natural Language Processing coursework notebooks (folders 01 to 06)
+
+### Machine Learning (`ml/`) folders
+- `ml/01-data-preprocessing/`
+- `ml/02-regression-models/`
+- `ml/03-tuning-and-validation/`
+- `ml/04-classification-models/`
+- `ml/05-ensemble-learning/`
+- `ml/06-unsupervised-learning/`
+- `ml/07-dimensionality-reduction/`
+- `ml/08-model-deployment/`
+- `ml/09-time-series/`
+
+### Natural Language Processing (`nlp/`) folders
+- `nlp/01-text-preprocessing/`
+- `nlp/02-text-vectorization/`
+- `nlp/03-classical-nlp-models/`
+- `nlp/04-neural-network/`
+- `nlp/05-sequence-models/`
+- `nlp/06-transformers/`
 
 ## 🚀 Featured Coursework Areas
 
