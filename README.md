@@ -47,6 +47,16 @@ Hands-on learning repository with Jupyter notebooks exploring data preprocessing
   - **SVM**
     - `ml/04-classification-models/svm/Project_02_SVM_Multiclass.ipynb`
     - `ml/04-classification-models/svm/Project_04_Cancer_Dataset.ipynb`
+- **Ensemble Learning**
+  - `ml/05-ensemble-learning/` *(projects in progress)*
+- **Unsupervised Learning**
+  - `ml/06-unsupervised-learning/` *(projects in progress)*
+- **Dimensionality Reduction**
+  - `ml/07-dimensionality-reduction/` *(projects in progress)*
+- **Model Deployment**
+  - `ml/08-model-deployment/` *(projects in progress)*
+- **Time Series**
+  - `ml/09-time-series/` *(projects in progress)*
 
 ### Natural Language Processing (`nlp/`)
 - **Text Preprocessing**
@@ -63,6 +73,10 @@ Hands-on learning repository with Jupyter notebooks exploring data preprocessing
 - **Neural Networks for NLP**
   - `nlp/04-neural-network/Project01_NN_forClassification_Iris_dataset.ipynb`
   - `nlp/04-neural-network/Project02_TextClassification_bbcDataset.ipynb`
+- **Sequence Models**
+  - `nlp/05-sequence-models/` *(projects in progress)*
+- **Transformers**
+  - `nlp/06-transformers/` *(projects in progress)*
 
 ## 🎯 Quick Start
 
