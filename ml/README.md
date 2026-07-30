@@ -1,6 +1,6 @@
 # Machine Learning Coursework
 
-Practical Machine Learning notebooks covering preprocessing, regression, model tuning, and classification.
+Practical Machine Learning notebooks covering preprocessing, regression, model tuning, classification, and advanced coursework tracks.
 
 ## 📂 Structure
 
@@ -10,6 +10,11 @@ Practical Machine Learning notebooks covering preprocessing, regression, model t
 - **`04-classification-models/`**
   - `knn/` — nearest neighbors projects
   - `svm/` — support vector machine projects
+- **`05-ensemble-learning/`** — bagging, boosting, and ensemble techniques *(projects in progress)*
+- **`06-unsupervised-learning/`** — clustering and representation learning *(projects in progress)*
+- **`07-dimensionality-reduction/`** — PCA and related methods *(projects in progress)*
+- **`08-model-deployment/`** — practical model serving workflows *(projects in progress)*
+- **`09-time-series/`** — forecasting and temporal modeling *(projects in progress)*
 
 ## 📋 Example Notebooks
 
@@ -33,12 +38,19 @@ Practical Machine Learning notebooks covering preprocessing, regression, model t
   - `04-classification-models/svm/Project_02_SVM_Multiclass.ipynb`
   - `04-classification-models/svm/Project_04_Cancer_Dataset.ipynb`
 
+### 05–09 — Advanced Tracks
+- `05-ensemble-learning/`
+- `06-unsupervised-learning/`
+- `07-dimensionality-reduction/`
+- `08-model-deployment/`
+- `09-time-series/`
+
 ## 🎯 Key Concepts Practiced
 
 ✅ Data preprocessing and feature preparation  
 ✅ Supervised learning for regression and classification  
 ✅ Model optimization with cross-validation and GridSearchCV  
-✅ Practical evaluation using real datasets
+✅ Foundations for ensemble, unsupervised, dimensionality reduction, deployment, and time-series work
 
 ## 🛠️ Tools
 
@@ -46,6 +58,7 @@ Practical Machine Learning notebooks covering preprocessing, regression, model t
 scikit-learn    # ML algorithms, model selection, evaluation
 pandas/numpy    # Data processing
 matplotlib      # Visualization
+seaborn         # Statistical plotting
 ```
 
 ---
