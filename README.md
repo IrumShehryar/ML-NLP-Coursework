@@ -2,14 +2,14 @@
 
 📚 **Machine Learning and Natural Language Processing coursework projects**
 
-Hands-on learning repository with Jupyter notebooks and projects exploring data preprocessing, regression, classification, optimization, and NLP techniques.
+Hands-on learning repository with Jupyter notebooks exploring data preprocessing, regression, classification, optimization, and NLP techniques.
 
-## 📂 Structure
+## 📂 Repository Structure
 
-- **`ml/`** - Machine Learning projects (preprocessing, regression, tuning, classification)
-- **`nlp/`** - Natural Language Processing projects (tokenization, vectorization, topic modeling, neural networks)
+- **`ml/`** — Machine Learning coursework notebooks
+- **`nlp/`** — Natural Language Processing coursework notebooks
 
-## 🚀 Featured Projects
+## 🚀 Featured Coursework Areas
 
 ### Machine Learning (`ml/`)
 - **Data Preprocessing**
@@ -22,10 +22,10 @@ Hands-on learning repository with Jupyter notebooks and projects exploring data 
 - **Tuning & Validation**
   - `ml/03-tuning-and-validation/Project09_GridSearchCV.ipynb`
 - **Classification Models**
-  - KNN:
+  - **KNN**
     - `ml/04-classification-models/knn/Project_02_KNN_by_finding_Optimal_Value_of_k.ipynb`
     - `ml/04-classification-models/knn/Project_04_Titanic_Dataset.ipynb`
-  - SVM:
+  - **SVM**
     - `ml/04-classification-models/svm/Project_02_SVM_Multiclass.ipynb`
     - `ml/04-classification-models/svm/Project_04_Cancer_Dataset.ipynb`
 
@@ -50,22 +50,23 @@ Hands-on learning repository with Jupyter notebooks and projects exploring data 
 ### Google Colab
 1. Visit [Google Colab](https://colab.research.google.com)
 2. Search for repo: `IrumShehryar/ML-NLP-Coursework`
-3. Open any notebook to run
+3. Open any notebook and run
 
-### Local Machine
+### Local Setup
 ```bash
 git clone https://github.com/IrumShehryar/ML-NLP-Coursework.git
-pip install numpy pandas scikit-learn matplotlib nltk spacy tensorflow seaborn
+cd ML-NLP-Coursework
+pip install numpy pandas scikit-learn matplotlib nltk spacy tensorflow seaborn jupyter
 jupyter notebook
 ```
 
 ## 🛠️ Libraries Used
 
-- scikit-learn, pandas, numpy, matplotlib
-- nltk, spacy
-- tensorflow, seaborn
-- Google Colab / Jupyter environment
+- **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, seaborn
+- **NLP:** nltk, spacy
+- **Neural Models:** tensorflow
+- **Environment:** Jupyter Notebook / Google Colab
 
 ---
 
-**Status**: 🔄 Actively Learning | Last Updated: July 2026
+**Status:** 🔄 Actively Learning | Last Updated: July 2026
