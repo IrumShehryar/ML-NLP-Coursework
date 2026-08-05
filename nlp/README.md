@@ -8,8 +8,8 @@ Hands-on NLP notebooks covering text preprocessing, vectorization, classical NLP
 - **`02-text-vectorization/`** — one-hot encoding, word-to-index mapping, CountVectorizer, and TF-IDF
 - **`03-classical-nlp-models/`** — topic modeling with matrix factorization techniques
 - **`04-neural-network/`** — neural network applications for classification tasks
-- **`05-sequence-models/`** — RNN/LSTM/sequence learning projects *(projects in progress)*
-- **`06-transformers/`** — transformer-based NLP experiments *(projects in progress)*
+- **`05-sequence-models/`** — RNN/LSTM/sequence learning projects 
+- **`06-transformers/`** — transformer-based NLP experiments 
 
 ## 📋 Example Notebooks
 
