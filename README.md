@@ -74,9 +74,9 @@ Hands-on learning repository with Jupyter notebooks exploring data preprocessing
   - `nlp/04-neural-network/Project01_NN_forClassification_Iris_dataset.ipynb`
   - `nlp/04-neural-network/Project02_TextClassification_bbcDataset.ipynb`
 - **Sequence Models**
-  - `nlp/05-sequence-models/` *(projects in progress)*
+  - `nlp/05-sequence-models/` 
 - **Transformers**
-  - `nlp/06-transformers/` *(projects in progress)*
+  - `nlp/06-transformers/` 
 
 ## 🎯 Quick Start
 
