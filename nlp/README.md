@@ -1,58 +1,25 @@
-# Natural Language Processing Coursework
+# Natural Language Processing — Overview
 
-Hands-on NLP notebooks covering text preprocessing, vectorization, classical NLP modeling, neural-network-based text classification, and advanced sequence modeling tracks.
+This directory contains concise, runnable Jupyter notebooks for core NLP topics used in the coursework. Notebooks are hands-on, self-contained, and ready to run in Jupyter or Google Colab.
 
-## 📂 Structure
+What's here (short):
+- 01-text-preprocessing: tokenization, stemming, lemmatization, cleaning.
+- 02-text-vectorization: one-hot, word2idx, CountVectorizer, co-occurrence intuition, TF‑IDF.
+- 03-classical-nlp-models: example tracks for sentiment analysis, spam detection, and topic modeling.
+- 04-neural-network: NN-based text classification, RNN/Seq2Seq, embeddings, Markov text generation.
+- 05-transfer-learning: pretrained model examples for sentiment, generation, summarization, translation, QA.
+- 06-fine-tuning-transformer: tokenization, model loading, and fine‑tuning notebooks.
+- 07-BiLSTM: bidirectional LSTM experiments and examples.
 
-- **`01-text-preprocessing/`** — tokenization, stemming, and lemmatization fundamentals
-- **`02-text-vectorization/`** — one-hot encoding, word-to-index mapping, CountVectorizer, and TF-IDF
-- **`03-classical-nlp-models/`** — topic modeling with matrix factorization techniques
-- **`04-neural-network/`** — neural network applications for classification tasks
-- **`05-sequence-models/`** — RNN/LSTM/sequence learning projects 
-- **`06-transformers/`** — transformer-based NLP experiments 
+Quick start:
+- Install Python 3.8+ and Jupyter.
+- Typical packages: nltk, spacy, scikit-learn, pandas, numpy, matplotlib; for transformer notebooks also install transformers and PyTorch or TensorFlow.
+- Open the desired notebook and run the cells.
 
-## 📋 Example Notebooks
-
-### 01 — Text Preprocessing
-- `01-text-preprocessing/Project01_Types_of_Tokenization.ipynb`
-- `01-text-preprocessing/Project03_Stemming_and_Lemmatization.ipynb`
-
-### 02 — Text Vectorization
-- `02-text-vectorization/Project01_Creating_one_hot_encoder.ipynb`
-- `02-text-vectorization/Project01_Word2idxMapping.ipynb`
-- `02-text-vectorization/Project02_Basics_Count_Vectorizer.ipynb`
-- `02-text-vectorization/Project03_Count_Vectorizer_ML.ipynb`
-- `02-text-vectorization/Project04_Basics_TF_IDF.ipynb`
-
-### 03 — Classical NLP Models
-- `03-classical-nlp-models/topic_modeling/Project02_NMF_TopicModeling.ipynb`
-
-### 04 — Neural Networks for NLP
-- `04-neural-network/Project01_NN_forClassification_Iris_dataset.ipynb`
-- `04-neural-network/Project02_TextClassification_bbcDataset.ipynb`
-
-### 05–06 — Advanced Tracks
-- `05-sequence-models/`
-- `06-transformers/`
-
-## 🎯 Key Concepts Practiced
-
-✅ Text cleaning and normalization  
-✅ Feature extraction from text data  
-✅ Topic modeling (NMF)  
-✅ Neural-network-based text classification  
-✅ Foundations for sequence models and transformer-based NLP
-
-## 🛠️ Libraries
-
-```python
-nltk          # Tokenization and linguistic preprocessing
-spacy         # NLP processing utilities
-scikit-learn  # Vectorization and classical ML models
-pandas/numpy  # Data handling
-tensorflow    # Neural network experiments
-```
+Notes:
+- Notebooks focus on short explanations and runnable code examples.
+- See the repo root README for global context and setup instructions.
 
 ---
 
-**Status:** 🔄 Coursework in progress with growing notebook coverage.
+Status: 🔄 Coursework in progress — Last updated: 2026-08-05
