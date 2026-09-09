@@ -7,10 +7,27 @@
 - `nlp/` — Natural Language Processing notebooks (01-text-preprocessing → 08-Time-series-transformer). Covers tokenization, vectorization, classical models, neural approaches, transfer learning and transformer-based notebooks.
 
 ## Quick highlights
-- ml/: data cleaning, feature engineering, regression & classification examples, hyperparameter search, CNN/RNN experiments, autoencoders, GANs, and unsupervised learning.
-- ml/04-classification-models/ includes classical classifiers and subfolders (knn, svm, decision-tree, random-forest, boosting-methods, Naive_bayes).
-- ml/12-unsupervised-learning/PCA/ contains six Project notebooks (Project_01.ipynb → Project_06.ipynb) demonstrating Principal Component Analysis (PCA) for visualization, dimensionality reduction, reconstruction and application to downstream tasks.
-- nlp/: tokenization, TF‑IDF and count vectorizers, topic modeling, sentiment/spam examples, transfer-learning and fine-tuning notebooks.
+
+### ML — Supervised learning
+- Regression: linear, polynomial, and multiple regression examples (ml/02-regression-models).
+- Classification: classical classifiers and model pipelines (ml/04-classification-models) including KNN, SVM, decision trees, random forest and boosting.
+- Neural networks: feedforward, CNNs (ml/08-CNN) for images, RNNs/LSTMs (ml/09-RNN) for sequences — includes training and evaluation examples.
+- Model tuning & validation: cross-validation and hyperparameter search (ml/03-tuning-and-validation).
+
+### ML — Unsupervised & generative
+- Dimensionality reduction & PCA projects (ml/12-unsupervised-learning/PCA/Project_01 → Project_06).
+- Autoencoders (ml/10-AutoEncoders) and GAN experiments (ml/11-Geneartive-Adversial-Networks) for representation learning and generation.
+
+### NLP
+**Preprocessing**
+- Tokenization, cleaning, stopwords, stemming & lemmatization (nlp/01-text-preprocessing).
+
+**Vectorization & classical models**
+- Count/TF‑IDF, word indices, co-occurrence intuition and topic/sentiment examples (nlp/02-text-vectorization, nlp/03-classical-nlp-models).
+
+**Neural & Transformers**
+- Embeddings, pretrained word vectors (gensim), RNN/BiLSTM experiments (nlp/04-neural-network, nlp/07-BiLSTM).
+- Transfer learning and fine-tuning transformer notebooks (nlp/05-transfer-learning, nlp/06-fine-tuning-transformer, nlp/08-Time-series-transformer).
 
 ## Quick start
 1. Clone the repo:
@@ -39,4 +56,4 @@ scikit-learn, pandas, numpy, matplotlib, seaborn, nltk, spacy, tensorflow / PyTo
 
 ---
 
-**Status:** 🔄 Coursework completed — Last updated: 2026-09-09
+**Status:** ✅ Coursework completed — Last updated: 2026-09-09
