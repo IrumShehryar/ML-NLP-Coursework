@@ -10,6 +10,7 @@ What's here (short):
 - 05-transfer-learning: pretrained model examples for sentiment, generation, summarization, translation, QA.
 - 06-fine-tuning-transformer: tokenization, model loading, and fine‑tuning notebooks.
 - 07-BiLSTM: bidirectional LSTM experiments and examples.
+- 08-Time-series-transformer: time-series transformer experiments and application examples.
 
 Quick start:
 - Install Python 3.8+ and Jupyter.
@@ -20,6 +21,20 @@ Notes:
 - Notebooks focus on short explanations and runnable code examples.
 - See the repo root README for global context and setup instructions.
 
----
+**NLP**
 
-Status: 🔄 Coursework in progress — Last updated: 2026-08-05
+**Preprocessing**
+- Tokenization (word/subword), cleaning and normalization.
+- Stop words, stemming, and lemmatization (nltk/spaCy examples).
+- Basic text cleaning and example pipelines (remove punctuation, lowercasing, simple filters).
+
+**Vectorization & Classical Models**
+- Count / TF‑IDF, word-index approaches, co-occurrence intuition and topic/sentiment examples.
+
+**Neural, Transfer & Transformers**
+- Embeddings and pretrained vectors (gensim examples).
+- RNN/BiLSTM examples for sequence tasks.
+- Transformer fine-tuning and time-series transformer notebooks (guidance for tokens, model loading, and training).
+
+---
+Status: ✅ Coursework completed — Last updated: 2026-09-09
