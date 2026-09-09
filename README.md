@@ -39,4 +39,4 @@ scikit-learn, pandas, numpy, matplotlib, seaborn, nltk, spacy, tensorflow / PyTo
 
 ---
 
-**Status:** 🔄 Coursework in progress — Last updated: 2026-09-09
+**Status:** 🔄 Coursework completed — Last updated: 2026-09-09
